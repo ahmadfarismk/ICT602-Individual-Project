@@ -27,10 +27,9 @@ To run this project locally, follow these steps:
 ## 📸 Screenshots
 
 *(Add screenshots of your app here once you upload them to GitHub)*
-- **Calculator Screen:** `![Calculator](link-to-image)`
-- **History Screen:** `![History](link-to-image)`
-- **Detail/Edit Screen:** `![Detail](link-to-image)`
-- **About Screen:** `![About](link-to-image)`
+- **Calculator Screen:**   ![Calculator Screen](screenshots/input UI.jpg)
+- **History Screen:**  ![History Screen](screenshots/history.jpg)
+- **About Screen:** ![About Screen](screenshots/about.jpg)
 
 ## 👨‍💻 Author
 
