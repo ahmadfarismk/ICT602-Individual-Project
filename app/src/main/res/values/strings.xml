@@ -54,11 +54,11 @@
 
     <!-- About screen -->
     <string name="title_about">About</string>
-    <string name="about_student_name">Your Full Name</string>
-    <string name="about_student_id">Student ID: YOUR_ID</string>
-    <string name="about_course">Course: ICT602 – Mobile Technology Programming</string>
+    <string name="about_student_name">Ahmad Faris bin Mohd Kamal</string>
+    <string name="about_student_id">Student ID: 2025300103</string>
+    <string name="about_course">Course: ICT602 – Mobile Technology and Development</string>
     <string name="about_copyright">© 2025 ElectriBill. All rights reserved.</string>
-    <string name="about_github_url">https://github.com/your-username/your-repo</string>
+    <string name="about_github_url">https://github.com/ahmadfarismk/ICT602-Individual-Project</string>
     <string name="about_github_label">View on GitHub</string>
     <string name="about_instructions_title">How to Use This App</string>
     <string name="about_instructions">1. Select the billing month from the dropdown.\n2. Enter the electricity units used (1–1000 kWh).\n3. Choose a rebate percentage (0%%–5%%) using the radio buttons.\n4. Tap \"Calculate\" to see your estimated bill.\n5. The Total Charges and Final Cost (after rebate) will be displayed.\n6. Each calculation is automatically saved.\n7. Tap \"View History\" to see all past records.\n8. Tap any history item to view full details, edit, or delete it.</string>
