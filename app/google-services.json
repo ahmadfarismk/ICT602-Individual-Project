@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "722528364492",
+    "firebase_url": "https://individual-assignment-c6d35-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "individual-assignment-c6d35",
+    "storage_bucket": "individual-assignment-c6d35.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722528364492:android:3ee45fc0a787193e6adf69",
+        "android_client_info": {
+          "package_name": "com.example.individualassignmentproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6_T_Gs3LgxEikyezNUSOWRUzlCxBUESA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

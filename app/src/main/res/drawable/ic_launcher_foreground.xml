@@ -1,0 +1,12 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Lightning bolt icon for electricity bill app -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M58,20 L42,52 L52,52 L46,88 L70,48 L58,48 L66,20 Z"
+        android:strokeColor="#00695C"
+        android:strokeWidth="1.5" />
+</vector>

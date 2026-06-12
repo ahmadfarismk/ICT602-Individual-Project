@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">ElectriBill</string>
+
+    <!-- Month spinner -->
+    <string-array name="months_array">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+
+    <!-- Calculator screen -->
+    <string name="title_calculator">Electricity Bill Calculator</string>
+    <string name="label_month">Select Month</string>
+    <string name="label_units">Units Used (kWh)</string>
+    <string name="hint_units">Enter units (1 – 1000)</string>
+    <string name="label_rebate">Rebate (%)</string>
+    <string name="btn_calculate">Calculate</string>
+    <string name="btn_history">View History</string>
+    <string name="btn_about">About</string>
+    <string name="label_total_charges">Total Charges</string>
+    <string name="label_final_cost">Final Cost (after rebate)</string>
+    <string name="result_placeholder">RM 0.00</string>
+    <string name="notice_instructions">Enter your electricity usage details below and tap Calculate to estimate your monthly bill.</string>
+
+    <!-- Validation errors -->
+    <string name="error_empty_units">Please enter the units used</string>
+    <string name="error_units_range">Units must be between 1 and 1000 kWh</string>
+    <string name="error_select_month">Please select a month</string>
+
+    <!-- History screen -->
+    <string name="title_history">Bill History</string>
+    <string name="empty_history">No bill records yet.\nCalculate a bill to see it here.</string>
+
+    <!-- Detail screen -->
+    <string name="title_detail">Bill Details</string>
+    <string name="btn_edit">Edit</string>
+    <string name="btn_delete">Delete</string>
+    <string name="btn_save">Save Changes</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="dialog_delete_title">Delete Record</string>
+    <string name="dialog_delete_message">Are you sure you want to delete this bill record?</string>
+    <string name="toast_deleted">Record deleted successfully</string>
+    <string name="toast_updated">Record updated successfully</string>
+    <string name="toast_saved">Bill saved successfully</string>
+
+    <!-- About screen -->
+    <string name="title_about">About</string>
+    <string name="about_student_name">Your Full Name</string>
+    <string name="about_student_id">Student ID: YOUR_ID</string>
+    <string name="about_course">Course: ICT602 – Mobile Technology Programming</string>
+    <string name="about_copyright">© 2025 ElectriBill. All rights reserved.</string>
+    <string name="about_github_url">https://github.com/your-username/your-repo</string>
+    <string name="about_github_label">View on GitHub</string>
+    <string name="about_instructions_title">How to Use This App</string>
+    <string name="about_instructions">1. Select the billing month from the dropdown.\n2. Enter the electricity units used (1–1000 kWh).\n3. Choose a rebate percentage (0%%–5%%) using the radio buttons.\n4. Tap \"Calculate\" to see your estimated bill.\n5. The Total Charges and Final Cost (after rebate) will be displayed.\n6. Each calculation is automatically saved.\n7. Tap \"View History\" to see all past records.\n8. Tap any history item to view full details, edit, or delete it.</string>
+
+
+    <!-- Rebate radio buttons -->
+    <string name="rebate_0">0%</string>
+    <string name="rebate_1">1%</string>
+    <string name="rebate_2">2%</string>
+    <string name="rebate_3">3%</string>
+    <string name="rebate_4">4%</string>
+    <string name="rebate_5">5%</string>
+</resources>

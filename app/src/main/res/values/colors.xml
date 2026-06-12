@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary colors (Teal) -->
+    <color name="colorPrimary">#00897B</color>
+    <color name="colorPrimaryDark">#00695C</color>
+    <color name="colorPrimaryLight">#4DB6AC</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+
+    <!-- Accent / Secondary (Amber) -->
+    <color name="colorAccent">#FF6F00</color>
+    <color name="colorAccentLight">#FFA000</color>
+
+    <!-- Background -->
+    <color name="colorBackground">#F5F5F5</color>
+    <color name="colorSurface">#FFFFFF</color>
+
+    <!-- Card -->
+    <color name="colorCard">#FFFFFF</color>
+    <color name="colorCardStroke">#E0E0E0</color>
+
+    <!-- Text -->
+    <color name="colorTextPrimary">#212121</color>
+    <color name="colorTextSecondary">#757575</color>
+    <color name="colorTextHint">#9E9E9E</color>
+
+    <!-- Result section -->
+    <color name="colorResultBackground">#E0F2F1</color>
+    <color name="colorResultText">#00695C</color>
+
+    <!-- Error -->
+    <color name="colorError">#D32F2F</color>
+
+    <!-- Standard -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Divider -->
+    <color name="colorDivider">#BDBDBD</color>
+</resources>
