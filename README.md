@@ -4,24 +4,6 @@ ElectriBill is an Android application designed to calculate electricity bills ba
 
 This project was developed for **ICT602 – Mobile Technology and Development**.
 
-## 📱 Features
-
-- **Tiered Pricing Calculation:** Automatically calculates the total charges based on standard electricity tariff blocks (1-200 kWh, 201-300 kWh, 301-600 kWh, etc.).
-- **Rebate System:** Users can apply a rebate percentage (0% - 5%) to their final cost.
-- **Cloud Database (Firebase):** All calculations are automatically saved to Firebase Realtime Database.
-- **History Tracking:** Users can view a list of all past bill calculations.
-- **Edit & Delete:** Users can tap on any historical record to view full details, update the values, or delete the record entirely.
-- **Clean UI:** Built with Material Design 3 guidelines for a modern and user-friendly experience.
-
-## 🛠️ Technology Stack
-
-- **Platform:** Android (Java)
-- **Minimum SDK:** 24
-- **Target SDK:** 36
-- **Architecture:** MVC (Model-View-Controller)
-- **Database:** Firebase Realtime Database
-- **UI Components:** Material Components for Android (Cards, TextFields, Buttons)
-
 ## 🚀 Getting Started
 
 To run this project locally, follow these steps:
